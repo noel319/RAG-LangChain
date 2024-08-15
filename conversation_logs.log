@@ -1,0 +1,124 @@
+2024-08-14 18:37:56,668 - Created a chunk of size 1780, which is longer than the specified 1000
+2024-08-14 18:37:56,668 - Created a chunk of size 1510, which is longer than the specified 1000
+2024-08-14 18:37:56,668 - Created a chunk of size 1687, which is longer than the specified 1000
+2024-08-14 18:37:56,668 - Created a chunk of size 1065, which is longer than the specified 1000
+2024-08-14 18:37:56,668 - Created a chunk of size 1944, which is longer than the specified 1000
+2024-08-14 18:37:56,668 - Created a chunk of size 2497, which is longer than the specified 1000
+2024-08-14 18:37:56,668 - Created a chunk of size 2452, which is longer than the specified 1000
+2024-08-14 18:37:56,673 - Created a chunk of size 2263, which is longer than the specified 1000
+2024-08-14 18:37:56,673 - Created a chunk of size 2300, which is longer than the specified 1000
+2024-08-14 18:37:56,673 - Created a chunk of size 2075, which is longer than the specified 1000
+2024-08-14 18:37:56,673 - Created a chunk of size 2353, which is longer than the specified 1000
+2024-08-14 18:37:56,673 - Created a chunk of size 1203, which is longer than the specified 1000
+2024-08-14 18:37:56,673 - Created a chunk of size 1711, which is longer than the specified 1000
+2024-08-14 18:37:56,673 - Created a chunk of size 1826, which is longer than the specified 1000
+2024-08-14 18:37:56,673 - Created a chunk of size 1001, which is longer than the specified 1000
+2024-08-14 18:37:56,673 - Created a chunk of size 1618, which is longer than the specified 1000
+2024-08-14 18:37:56,673 - Created a chunk of size 1493, which is longer than the specified 1000
+2024-08-14 18:37:56,673 - Created a chunk of size 1570, which is longer than the specified 1000
+2024-08-14 18:37:56,673 - Created a chunk of size 2268, which is longer than the specified 1000
+2024-08-14 18:37:56,673 - Created a chunk of size 1641, which is longer than the specified 1000
+2024-08-14 18:37:56,673 - Created a chunk of size 1309, which is longer than the specified 1000
+2024-08-14 18:37:56,673 - Created a chunk of size 1583, which is longer than the specified 1000
+2024-08-14 18:38:01,341 - Use pytorch device_name: cpu
+2024-08-14 18:38:01,341 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-08-14 18:38:09,062 - Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+2024-08-14 18:38:09,317 - loaded in 801 embeddings
+2024-08-14 18:38:09,319 - loaded in 1 collections
+2024-08-14 18:38:09,322 - collection with name langchain already exists, returning existing collection
+2024-08-14 18:38:14,982 - Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+2024-08-14 18:38:15,040 - loaded in 801 embeddings
+2024-08-14 18:38:15,042 - loaded in 1 collections
+2024-08-14 18:38:15,044 - collection with name langchain already exists, returning existing collection
+2024-08-14 18:38:24,326 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:38:27,510 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:38:28,970 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:38:28,971 - User Query: Could you please rephrase your query to make it clearer for document retrieval purposes?
+RAG Answer: What is the token distribution plan for $GBR and how is it structured to ensure fairness and inclusivity?
+2024-08-14 18:38:30,066 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:39:09,167 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:39:13,989 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:39:15,691 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:39:17,313 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:39:17,314 - User Query: Could you please provide more information or context about "gybernaty" so I can help reformulate the query to ensure better document retrieval?
+RAG Answer: I don't have enough information about "Gybernaty" to provide a reformulated query for document retrieval.
+2024-08-14 18:39:20,846 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:41:19,301 - Persisting DB to disk, putting it in the save folder: db
+2024-08-14 18:41:19,775 - Persisting DB to disk, putting it in the save folder: db
+2024-08-14 18:41:25,635 - Created a chunk of size 1780, which is longer than the specified 500
+2024-08-14 18:41:25,635 - Created a chunk of size 1510, which is longer than the specified 500
+2024-08-14 18:41:25,635 - Created a chunk of size 1687, which is longer than the specified 500
+2024-08-14 18:41:25,635 - Created a chunk of size 1065, which is longer than the specified 500
+2024-08-14 18:41:25,635 - Created a chunk of size 1944, which is longer than the specified 500
+2024-08-14 18:41:25,635 - Created a chunk of size 2497, which is longer than the specified 500
+2024-08-14 18:41:25,635 - Created a chunk of size 2452, which is longer than the specified 500
+2024-08-14 18:41:25,635 - Created a chunk of size 2263, which is longer than the specified 500
+2024-08-14 18:41:25,635 - Created a chunk of size 822, which is longer than the specified 500
+2024-08-14 18:41:25,636 - Created a chunk of size 650, which is longer than the specified 500
+2024-08-14 18:41:25,636 - Created a chunk of size 2300, which is longer than the specified 500
+2024-08-14 18:41:25,636 - Created a chunk of size 2075, which is longer than the specified 500
+2024-08-14 18:41:25,636 - Created a chunk of size 2353, which is longer than the specified 500
+2024-08-14 18:41:25,636 - Created a chunk of size 1203, which is longer than the specified 500
+2024-08-14 18:41:25,636 - Created a chunk of size 1711, which is longer than the specified 500
+2024-08-14 18:41:25,636 - Created a chunk of size 1826, which is longer than the specified 500
+2024-08-14 18:41:25,636 - Created a chunk of size 1001, which is longer than the specified 500
+2024-08-14 18:41:25,636 - Created a chunk of size 1618, which is longer than the specified 500
+2024-08-14 18:41:25,636 - Created a chunk of size 1493, which is longer than the specified 500
+2024-08-14 18:41:25,636 - Created a chunk of size 1570, which is longer than the specified 500
+2024-08-14 18:41:25,636 - Created a chunk of size 2268, which is longer than the specified 500
+2024-08-14 18:41:25,636 - Created a chunk of size 1641, which is longer than the specified 500
+2024-08-14 18:41:25,636 - Created a chunk of size 1309, which is longer than the specified 500
+2024-08-14 18:41:25,636 - Created a chunk of size 1583, which is longer than the specified 500
+2024-08-14 18:41:30,105 - Use pytorch device_name: cpu
+2024-08-14 18:41:30,106 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-08-14 18:41:39,126 - Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+2024-08-14 18:41:39,340 - loaded in 833 embeddings
+2024-08-14 18:41:39,342 - loaded in 1 collections
+2024-08-14 18:41:39,345 - collection with name langchain already exists, returning existing collection
+2024-08-14 18:41:44,524 - Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+2024-08-14 18:41:44,584 - loaded in 833 embeddings
+2024-08-14 18:41:44,587 - loaded in 1 collections
+2024-08-14 18:41:44,588 - collection with name langchain already exists, returning existing collection
+2024-08-14 18:41:54,677 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:41:58,257 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:42:00,214 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:42:00,215 - User Query: Could you kindly provide more context or specific information related to the query "Hi" so I can better assist you?
+RAG Answer: I'm sorry, but without more specific information or context related to the query "Hi," I am unable to provide a helpful response. If you can provide more details or clarify your question, I would be happy to assist you further.
+2024-08-14 18:42:03,174 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:42:15,795 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:42:18,981 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:42:20,771 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:42:23,035 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:42:23,036 - User Query: Could you please provide more information about yourself, such as your full name or the purpose of your query?
+RAG Answer: I don't have a full name or personal information to share as I am an AI assistant designed to provide information and answer questions to the best of my abilities. My purpose is to assist you with any queries you may have.
+2024-08-14 18:42:26,388 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:43:20,118 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:43:23,170 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:43:25,196 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:43:27,517 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:43:27,518 - User Query: Could you please provide more context or detail about what you are asking or trying to find out?
+RAG Answer: I am a language model AI assistant designed to provide information and answer questions to the best of my abilities. I don't have a full name, and my purpose is to assist users with their queries to the best of my abilities.
+2024-08-14 18:43:30,826 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:44:06,711 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:44:09,542 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:44:11,497 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:44:14,786 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:44:14,787 - User Query: What skills do you possess?
+RAG Answer: I am an AI assistant designed to provide information and assistance to users. I can help answer questions, provide explanations, offer suggestions, and engage in conversation on a wide range of topics. However, I do not possess physical skills or abilities like a human would.
+2024-08-14 18:44:18,944 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:45:04,645 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:45:07,707 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:45:09,561 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:45:11,550 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:45:11,551 - User Query: Can you please provide more context or clarify the specific topic or concept related to "Gybernaty rule" that you are looking for information about?
+RAG Answer: I don't have enough information to provide a specific answer about the "Gybernaty rule" as it is not mentioned in the context provided. If you can provide more details or context, I may be able to assist you better.
+2024-08-14 18:45:14,673 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:46:11,950 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:46:14,637 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:46:16,528 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:46:18,811 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:46:18,812 - User Query: Can you provide more context or details about what you are looking for related to the "Gybernaty Community"? That way, I can help you refine your query for better document retrieval.
+RAG Answer: The Gybernaty community is a group of individuals dedicated to innovation, collaboration, and sustainability. They are focused on making a positive impact on technology and society, with a vision of creating a brighter and fairer world for future generations. Their work involves pushing the boundaries of what is possible through creative thinking and a commitment to positive change.
+2024-08-14 18:46:21,927 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 18:47:38,181 - Persisting DB to disk, putting it in the save folder: db
+2024-08-14 18:47:38,369 - Persisting DB to disk, putting it in the save folder: db
